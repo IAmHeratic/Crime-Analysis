@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 411 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CrimeAnalysis.vcxproj -> C:\Users\jrodr\Documents\UIC\CS_341\crimeanalysis\x64\Release\CrimeAnalysis.exe
